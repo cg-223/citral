@@ -1,1 +1,1 @@
-github.com/citrallang/citral
+https://github.com/citrallang/citral
